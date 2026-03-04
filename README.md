@@ -15,7 +15,7 @@ Graph Interpretation (from screenshot):
 - E[f(x)] = 47.534  → average productivity score across all students
 - f(x) = 56.359  → this student's predicted productivity score
 
-Features Contribution (from screenshot):
+Features Contribution (screenshot not showing the full page):
 - study_hours_per_day = 8 hours   → +13.64 (biggest positive impact)
 - attendance_percentage = 80% → +2.34 (small positive impact)
 - focus_score = 55% → -2.79 (negative impact)
