@@ -24,3 +24,4 @@ Features Contribution (screenshot not showing the full page):
 
 Summary:
 - This student scores above average (56.36 vs average 47.53) mainly because of their high study hours. However the student's productivity is being held back by insufficient sleep (5 hours) and a low focus score (55). Improving sleep and focus could push the student's productivity score significantly higher.
+- SHAP doesn't just predict, it explains why and shows which features helped or hurt the result so you know exactly what to improve.
